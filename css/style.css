@@ -8581,6 +8581,12 @@ Portfolio
   margin-bottom: 0;
 }
 
+.shop-promo-box a {
+  position: absolute;
+  bottom: 60px; /* Sesuaikan dengan jarak yang diinginkan dari bawah */
+  left: 30%;
+  transform: translateX(-50%);
+}
 /*  Forum */
 /* ----------------------------------------------------------------
     Forum
