@@ -1,3 +1,28 @@
-body {
-    padding-top: 56px;
+/* styles.css */
+
+.custom-container {
+    background-color: #FAE8E0;
+    padding-top: 5rem; /* Atur padding atas sesuai kebutuhan */
+    padding-bottom: 5rem; /* Atur padding bawah sesuai kebutuhan */
+}
+
+.list-group-item {
+    background-color: #ffffff;
+    border-color: #dee2e6;
+    color: #212529;
+}
+
+.list-group-item:hover {
+    background-color: #e9ecef;
+}
+
+.custom-btn {
+    background-color: #EF7C8E;
+    border-color: #EF7C8E;
+    color: #ffffff; /* Warna teks */
+}
+
+.custom-btn:hover {
+    background-color: #d45a6c; /* Warna hover */
+    border-color: #d45a6c;
 }
